@@ -1,4 +1,4 @@
-# hand_gesture_detection---project-based-learning-college-project-
+# hand__gesture__detection
 
 Language barriers are very much still a real thing. We can 
 take little steps to close that for example speech to text and 
